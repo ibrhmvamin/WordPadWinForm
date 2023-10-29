@@ -72,6 +72,7 @@ namespace WordPadWinForm
             if (loadtb.Text == "Enter name and load file." || loadtb.Text == null)
             {
                 loadtb.Text = "";
+                loadtb.ForeColor = Color.Black;
             }
         }
 
@@ -80,6 +81,7 @@ namespace WordPadWinForm
             if (savetb.Text == "Tap enter name and save." || savetb.Text == null)
             {
                 savetb.Text = "";
+                savetb.ForeColor = Color.Black;
             }
         }
 
