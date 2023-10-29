@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\bin\Debug\net6.0-windows\WordPadWinForm.exe
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\bin\Debug\net6.0-windows\WordPadWinForm.deps.json
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\bin\Debug\net6.0-windows\WordPadWinForm.runtimeconfig.json
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\bin\Debug\net6.0-windows\WordPadWinForm.dll
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\bin\Debug\net6.0-windows\WordPadWinForm.pdb
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.Form1.resources
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.AssemblyInfo.cs
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.dll
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\refint\WordPadWinForm.dll
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.pdb
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\WordPadWinForm.genruntimeconfig.cache
+C:\Users\User\source\repos\WordPadWinForm\WordPadWinForm\obj\Debug\net6.0-windows\ref\WordPadWinForm.dll
